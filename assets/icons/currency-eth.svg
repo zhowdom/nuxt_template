@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path
+    d="M32 16c0 8.837-7.163 16-16 16s-16-7.163-16-16c0-8.837 7.163-16 16-16s16 7.163 16 16z"
+    fill="#627eea"
+    style="fill: #627eea"
+  />
+  <path
+    d="M16.5 4v8.87l7.5 3.35z"
+    fill="#fff"
+    opacity="0.6"
+    style="fill: #fff"
+  />
+  <path d="M16.5 4l-7.5 12.22 7.5-3.35z" fill="#fff" style="fill: #fff" />
+  <path
+    d="M16.5 21.97v6.030l7.5-10.385z"
+    fill="#fff"
+    opacity="0.6"
+    style="fill: #fff"
+  />
+  <path d="M16.5 28v-6.035l-7.5-4.35z" fill="#fff" style="fill: #fff" />
+  <path
+    d="M16.5 20.575l7.5-4.355-7.5-3.35z"
+    fill="#fff"
+    opacity="0.2"
+    style="fill: #fff"
+  />
+  <path
+    d="M9 16.22l7.5 4.355v-7.705z"
+    fill="#fff"
+    opacity="0.6"
+    style="fill: #fff"
+  />
+</svg>

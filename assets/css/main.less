@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 16px;
+  touch-action: manipulation;
+}
+
+body {
+  background: #1a2c38;
+  color: #b1bad3;
+  font-family: proxima-nova, sans-serif;
+  cursor: default;
+}
+
+#app {
+  .desktop-view({
+    height: 1px;
+    min-height: 100vh;
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+  });
+}
+
+.icon {
+  fill: currentColor;
+  color: inherit;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.scrollY,
+.scrollX {
+  scrollbar-color: #2f4553 transparent;
+}
+
+.scrollY {
+  overflow-y: auto;
+  overflow-x: hidden;
+  min-height: 0;
+  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scroll: touch;
+  scrollbar-width: thin;
+}
+
+.scrollX {
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  transform: translateZ(0);
+  -moz-transform: none !important;
+  scrollbar-width: thin;
+}
+
+.scrollX::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+}
+
+.scrollY::-webkit-scrollbar-thumb,
+.scrollX::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+}
+
+.scrollX::-webkit-scrollbar {
+  height: var(--scrollbar-size);
+}
+
+.hide-scrollbar {
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollY::-webkit-scrollbar {
+  width: var(--scrollbar-size);
+}
+
+.svg-icon {
+  pointer-events: none;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+  flex-shrink: 0;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon.is-rounded {
+  border-radius: 100px;
+}

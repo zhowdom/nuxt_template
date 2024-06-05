@@ -1,0 +1,12 @@
+*.html
+*.yml
+.idea
+.quasar
+.vscode
+fetch
+public
+server
+src/src-capacitor
+src/src-pwa
+src/src-ssr
+dist

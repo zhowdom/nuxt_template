@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path
+    d="M26.507 6.547h-21l-5.507 7.547 16 17.907 16-17.907-5.493-7.547z"
+    fill="#7af2ff"
+    style="fill: #7af2ff"
+  />
+  <path
+    d="M16.040 32v-10.133l-10.413-1.48 10.413 11.613z"
+    fill="#00cfe3"
+    style="fill: #00cfe3"
+  />
+  <path
+    d="M26.467 20.387l-10.427 11.613v-12.040l10.427 0.427z"
+    fill="#00aebf"
+    style="fill: #00aebf"
+  />
+  <path
+    d="M31.96 14.147h-31.933l5.6 6.24h20.84l5.493-6.24z"
+    fill="#00c3d6"
+    style="fill: #00c3d6"
+  />
+  <path
+    d="M5.52 6.547l4.813 7.6-10.307-0.093 5.493-7.507z"
+    fill="#dbfffe"
+    style="fill: #dbfffe"
+  />
+  <path
+    d="M26.467 6.547l-4.827 7.6 10.32-0.093-5.493-7.507z"
+    fill="#00e4fb"
+    style="fill: #00e4fb"
+  />
+  <path
+    d="M16.040 6.547l-10.413 13.813 0.040 0.013 10.373-3.68v-10.147z"
+    fill="#bafffe"
+    style="fill: #bafffe"
+  />
+  <path
+    d="M5.667 20.373l10.373 4.867v-8.547l-10.373 3.68z"
+    fill="#00e4fb"
+    style="fill: #00e4fb"
+  />
+  <path
+    d="M16.040 25.24l10.387-4.867-10.387-3.68v8.547z"
+    fill="#00fffb"
+    style="fill: #00fffb"
+  />
+  <path
+    d="M16.040 6.547v10.147l10.387 3.68 0.040-0.013-10.427-13.813z"
+    fill="#00e4fb"
+    style="fill: #00e4fb"
+  />
+  <path d="M14.933 0h2v4.12h-2v-4.12z" fill="#00e4fb" style="fill: #00e4fb" />
+  <path
+    d="M9.118 1.826l1.627-1.163 2.503 3.504-1.627 1.163-2.503-3.504z"
+    fill="#00e4fb"
+    style="fill: #00e4fb"
+  />
+  <path
+    d="M18.625 4.173l2.503-3.505 1.628 1.162-2.503 3.505-1.628-1.162z"
+    fill="#00e4fb"
+    style="fill: #00e4fb"
+  />
+</svg>

@@ -1,0 +1,1 @@
+export const localePath = useLocalePath();

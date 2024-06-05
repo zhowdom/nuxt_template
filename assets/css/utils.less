@@ -1,0 +1,27 @@
+// 适配桌面
+.desktop-view(@content) {
+  @media screen and (min-width: 768px) {
+    @content();
+  }
+}
+
+// 适配手机
+.mobile-view(@content) {
+  @media screen and (max-width: 768px) {
+    @content();
+  }
+}
+
+// 适配横屏
+.landscape-view(@content) {
+  @media screen and (orientation: landscape) {
+    @content();
+  }
+}
+
+// 适配竖屏
+.portrait-view(@content) {
+  @media screen and (orientation: portrait) {
+    @content();
+  }
+}
